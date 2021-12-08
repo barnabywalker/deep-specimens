@@ -1,0 +1,25 @@
+name: deep-specimens
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - conda-forge::kaggle
+  - numpy
+  - conda-forge::ipywidgets
+  - pytorch::torchaudio
+  - python=3.8.5
+  - conda-forge::umap-learn
+  - conda-forge::jupyterlab
+  - matplotlib
+  - pytorch::pytorch
+  - scikit-learn
+  - fastchan::fastai
+  - tqdm
+  - pytorch::torchvision
+  - pandas
+  - nvidia::cudatoolkit=11.1
+  - pytorch-lightning
+  - cleanlab
+  - pillow

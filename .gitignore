@@ -1,0 +1,6 @@
+data
+figures
+logs
+output
+notebooks/results-figures.ipynb
+**/.ipynb_checkpoints
