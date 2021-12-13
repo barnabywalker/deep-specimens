@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/436326491.svg)](https://zenodo.org/badge/latestdoi/436326491)
+
 # Harnessing large-scale herbarium image datasets through representation learning
 
 These are files and code used for the analysis descriped in the paper [Harnessing large-scale herbarium image datasets through representation learning](https://www.frontiersin.org/articles/10.3389/fpls.2021.806407/abstract).
